@@ -2,7 +2,7 @@
 
 
 ## Overview
-The **EY Open Science AI & Data Challenge 2025** is an annual global competition aligned with the **United Nations Sustainable Development Goals (SDGs)** and the **EY Ripples** program. It invites university students, early-career professionals, and EY people to develop AI and machine learning models addressing critical environmental issues.
+The **EY Open Science AI & Data Challenge 2025** is an annual global competition aligned with the **United Nations Sustainable Development Goals (SDGs)** and the **EY Ripples** program. It invites university students, early-career professionals, and EY people from 146 countries to develop AI and machine learning models addressing critical environmental issues.
 
 This year’s theme focuses on the **Urban Heat Island (UHI) effect**, a phenomenon where urban areas experience significantly higher temperatures than surrounding rural areas due to dense infrastructure, limited vegetation, and lack of water bodies. In some cases, the temperature difference can exceed **10°C**, leading to severe health, social, and energy-related challenges.
 
@@ -35,8 +35,13 @@ Participants were encouraged to incorporate publicly available datasets, such as
 
 ---
 
-  ## My Performance
-- **Score:** **0.9747** (higher is better)  
+## My Performance
+Participants received an out-of-sample validation dataset on which their models generated predictions (in .csv format). Submissions were evaluated by comparing against the ground truth data using the R-squared (R²) metric to assess model performance.
+
+To receive a certificate of completion, a minimum R² score of 0.8 on the validation dataset was required.
+
+My results:
+- **Score:** **0.9747**   
 - **Rank:** **51st out of 377 valid submissions**  
 - **Total participants:** 2,072  
 - **Achievement:** Placed in the top 14% of all valid submissions globally
