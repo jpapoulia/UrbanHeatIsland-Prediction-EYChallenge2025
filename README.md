@@ -32,7 +32,6 @@ Participants were encouraged to incorporate publicly available datasets, such as
 - **NASA Landsat optical satellite data**  
 - **NYC Building footprints** (NYC Open Data)  
 - **Local weather data** from NYS Mesonet  
-- Other open datasets (with proper attribution)
 
 ---
 
